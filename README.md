@@ -12,4 +12,4 @@ O projeto está organizado em duas pastas principais:
 2. **Item**
    Contém exemplos das propriedades de Flexbox aplicadas aos itens dentro do contêiner, permitindo personalizar o alinhamento e o dimensionamento de cada item individualmente.
 
-![examples](https://github.com/oadcavalcante/flexbox/examples.png)
+![examples](https://github.com/oadcavalcante/flexbox/blob/main/examples.png)
